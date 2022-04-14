@@ -8,7 +8,7 @@ go get github.com/r0lh/color
 
 Example:
 
-`package main
+```package main
 
 import (
    "fmt"
@@ -18,4 +18,4 @@ import (
 func main() {
   fmt.Println(color.Colorize(color.Success, "colorize module works!"))
 }
-`
+```

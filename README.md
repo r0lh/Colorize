@@ -8,7 +8,8 @@ go get github.com/r0lh/color
 
 Example:
 
-```package main
+```
+package main
 
 import (
    "fmt"

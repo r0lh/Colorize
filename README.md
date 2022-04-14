@@ -17,6 +17,16 @@ import (
 )
 
 func main() {
-  fmt.Println(color.Colorize(color.Success, "colorize module works!"))
+  fmt.Println(color.Ize(color.Blue, "colorize module works!"))
 }
 ```
+
+Possible colors:
+- White
+- Red
+- Green
+- Yellow
+- Blue
+- Purple
+- Cyan
+- Gray

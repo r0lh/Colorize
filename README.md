@@ -1,5 +1,4 @@
 # Colorize - go module for terminal colors
-
 go module for terminal colors
 
 ## install

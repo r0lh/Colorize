@@ -1,5 +1,7 @@
 # Colorize - go module for terminal colors
 
+go module for terminal colors
+
 ## install
 
 go get github.com/r0lh/color
